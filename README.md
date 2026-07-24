@@ -43,6 +43,7 @@ I'm a developer from India - I build web apps end-to-end, from idea to deploymen
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express" /></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB" /></a>
+ <a href="https://www.redis.com/"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" /></a>
  <a href="https://hono.dev/"><img src="https://cdn.simpleicons.org/hono/E36002" width="48" alt="Hono" title="Hono" /></a>
   <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" width="48" alt="Bun" title="Bun" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
@@ -50,6 +51,7 @@ I'm a developer from India - I build web apps end-to-end, from idea to deploymen
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" title="Firebase" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
+ <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" /></a>
 </p>
 
 
